@@ -1,0 +1,1127 @@
+Data Analytics
+==============
+1. What is the first step in the data analytics process?
+   a. Data modeling
+   b. Data visualization
+   c. Data collection
+   d. Data cleaning
+   **c**
+
+2. Which of the following is a type of supervised learning?
+   a. Clustering
+   b. Regression
+   c. Association
+   d. Dimensionality reduction
+   **b**
+
+3. What does ETL stand for in data processing?
+   a. Extract, Transform, Load
+   b. Evaluate, Transform, Learn
+   c. Extract, Test, Learn
+   d. Execute, Transfer, Load
+   **a**
+
+4. In Python, which library is commonly used for data manipulation?
+   a. matplotlib
+   b. seaborn
+   c. pandas
+   d. scikit-learn
+   **c**
+
+5. Which graph is best for showing parts of a whole?
+   a. Line graph
+   b. Bar graph
+   c. Pie chart
+   d. Histogram
+   **c**
+
+6. What is the median of the dataset: \[5, 2, 7, 4, 9]?
+   a. 5
+   b. 7
+   c. 4
+   d. 6
+   **a**
+
+7. Which algorithm is used for classification problems?
+   a. K-Means
+   b. Linear Regression
+   c. Logistic Regression
+   d. PCA
+   **c**
+
+8. What does a high p-value indicate in hypothesis testing?
+   a. Reject the null hypothesis
+   b. Accept the alternative hypothesis
+   c. Weak evidence against the null hypothesis
+   d. Strong evidence against the null hypothesis
+   **c**
+
+9. What is the purpose of a confusion matrix?
+   a. Normalize data
+   b. Visualize missing data
+   c. Evaluate classification model performance
+   d. Transform variables
+   **c**
+
+10. Which of the following is not a measure of central tendency?
+    a. Mean
+    b. Median
+    c. Mode
+    d. Range
+    **d**
+
+11. What does variance measure in a dataset?
+    a. Central value
+    b. Spread of values
+    c. Frequency of values
+    d. Shape of distribution
+    **b**
+
+12. Which metric is used to evaluate regression models?
+    a. Accuracy
+    b. Precision
+    c. R-squared
+    d. F1 Score
+    **c**
+
+13. Which tool is widely used for business intelligence dashboards?
+    a. Excel
+    b. Tableau
+    c. Python
+    d. Jupyter
+    **b**
+
+14. What does the term "Big Data" refer to?
+    a. Data that is accurate
+    b. Data that is small in size
+    c. Very large and complex datasets
+    d. Data that is easy to analyze
+    **c**
+
+15. Which type of analysis predicts future outcomes?
+    a. Descriptive
+    b. Diagnostic
+    c. Predictive
+    d. Prescriptive
+    **c**
+
+16. What is the key characteristic of NoSQL databases?
+    a. Only support relational data
+    b. Do not support unstructured data
+    c. Support flexible schemas
+    d. Store data in tables
+    **c**
+
+17. What does normalization do to data?
+    a. Add missing values
+    b. Scale data to a range
+    c. Remove outliers
+    d. Sort data
+    **b**
+
+18. Which method can be used to handle missing values?
+    a. Ignore
+    b. Mean imputation
+    c. Remove the row
+    d. All of the above
+    **d**
+
+19. What is overfitting in machine learning?
+    a. Model underperforms
+    b. Model performs well on new data
+    c. Model memorizes training data
+    d. Model generalizes well
+    **c**
+
+20. What does a boxplot display?
+    a. Only the mean
+    b. Data distribution and outliers
+    c. Only the mode
+    d. Only the maximum value
+    **b**
+
+21. What is the range of a dataset?
+    a. Mean - Median
+    b. Maximum - Minimum
+    c. Median + Mode
+    d. Standard deviation
+    **b**
+
+22. Which technique is used for dimensionality reduction?
+    a. KNN
+    b. SVM
+    c. PCA
+    d. Random Forest
+    **c**
+
+23. What is a KPI?
+    a. Key Performance Indicator
+    b. Knowledge Process Index
+    c. Kernel Parameter Input
+    d. Key Prediction Insight
+    **a**
+
+24. What is the output of clustering?
+    a. Regression coefficients
+    b. Class labels
+    c. Groups of similar records
+    d. Correlation matrix
+    **c**
+
+25. Which programming language is most commonly used for data science?
+    a. Java
+    b. Python
+    c. C++
+    d. PHP
+    **b**
+
+26. What does the term “data wrangling” mean?
+    a. Deleting data
+    b. Visualizing data
+    c. Cleaning and preparing data
+    d. Encrypting data
+    **c**
+
+27. What is a common file format for data exchange?
+    a. .exe
+    b. .json
+    c. .dll
+    d. .bin
+    **b**
+
+28. Which chart is best for time series data?
+    a. Pie chart
+    b. Bar chart
+    c. Line chart
+    d. Boxplot
+    **c**
+
+29. What is an outlier?
+    a. Data point within the normal range
+    b. Average of the dataset
+    c. A data point far from other observations
+    d. The smallest value
+    **c**
+
+30. Which is not a Python visualization library?
+    a. seaborn
+    b. ggplot2
+    c. matplotlib
+    d. plotly
+    **b**
+
+31. What is the full form of SQL?
+    a. Structured Query Language
+    b. Simple Query Language
+    c. Standard Question Language
+    d. Structured Quick Logic
+    **a**
+
+32. What is a primary key in a database?
+    a. A secret password
+    b. Unique identifier for rows
+    c. A backup field
+    d. A summary column
+    **b**
+
+33. What is correlation?
+    a. Data sorting
+    b. Relationship between variables
+    c. Data visualization
+    d. Data cleaning
+    **b**
+
+34. Which ML model works well with non-linear data?
+    a. Linear Regression
+    b. Decision Tree
+    c. K-Means
+    d. Logistic Regression
+    **b**
+
+35. What is the use of JOIN in SQL?
+    a. Delete data
+    b. Create new tables
+    c. Combine data from tables
+    d. Find missing values
+    **c**
+
+36. Which method is used to reduce overfitting?
+    a. Increasing features
+    b. Reducing training data
+    c. Regularization
+    d. Using test data
+    **c**
+
+37. What does the acronym CSV stand for?
+    a. Column Storage View
+    b. Common Stored Value
+    c. Comma Separated Values
+    d. Central Source Value
+    **c**
+
+38. What is standard deviation?
+    a. Average value
+    b. Measure of variability
+    c. Central value
+    d. Data type
+    **b**
+
+39. What is an API used for in data analytics?
+    a. Encrypt data
+    b. Visualize results
+    c. Interface for software access
+    d. Store datasets
+    **c**
+
+40. Which chart is best for comparing categories?
+    a. Line chart
+    b. Histogram
+    c. Bar chart
+    d. Scatter plot
+    **c**
+
+NLP and CV
+==========
+1. What does NLP stand for?
+   a. Neural Language Processor
+   b. Natural Learning Program
+   c. Natural Language Processing
+   d. Neural Learning Processing
+   **c**
+
+2. Which of the following is a common task in NLP?
+   a. Edge Detection
+   b. POS Tagging
+   c. Image Segmentation
+   d. Object Tracking
+   **b**
+
+3. What is the goal of tokenization in NLP?
+   a. Compressing text
+   b. Translating text
+   c. Splitting text into words or sentences
+   d. Encrypting text
+   **c**
+
+4. Which library is used for NLP in Python?
+   a. OpenCV
+   b. seaborn
+   c. NLTK
+   d. matplotlib
+   **c**
+
+5. What is stop word removal?
+   a. Removing punctuation
+   b. Removing very long words
+   c. Removing common words like “the”, “is”
+   d. Removing named entities
+   **c**
+
+6. In NLP, what is lemmatization?
+   a. Counting words
+   b. Removing stop words
+   c. Converting words to base form
+   d. Converting text to numbers
+   **c**
+
+7. What is the function of word embeddings?
+   a. Visualize sentences
+   b. Detect objects
+   c. Represent words as vectors
+   d. Convert audio to text
+   **c**
+
+8. Which technique is used to reduce dimensionality of word vectors?
+   a. Convolution
+   b. Pooling
+   c. PCA
+   d. POS tagging
+   **c**
+
+9. Which is a common word embedding model?
+   a. YOLO
+   b. ResNet
+   c. Word2Vec
+   d. GAN
+   **c**
+
+10. What is a bag-of-words model?
+    a. A type of convolution
+    b. Representation of text by word counts
+    c. A deep learning model
+    d. Image dataset
+    **b**
+
+11. What is the main task of Named Entity Recognition?
+    a. Counting words
+    b. Identifying sentence boundaries
+    c. Identifying proper names in text
+    d. Predicting next sentence
+    **c**
+
+12. What is stemming in NLP?
+    a. Adding suffixes
+    b. Removing punctuation
+    c. Reducing words to root form
+    d. Translating text
+    **c**
+
+13. Which transformer-based model became widely popular in NLP?
+    a. CNN
+    b. LSTM
+    c. GAN
+    d. BERT
+    **d**
+
+14. What does BERT stand for?
+    a. Binary Encoding for Recurrent Text
+    b. Base Encoder for Real-Time
+    c. Bidirectional Encoder Representations from Transformers
+    d. Basic Entity Recognition Tool
+    **c**
+
+15. What is TF-IDF used for?
+    a. Translating languages
+    b. Image classification
+    c. Scoring word importance in a document
+    d. Predicting word vectors
+    **c**
+
+16. What is the full form of POS in NLP?
+    a. Position of Syntax
+    b. Part of Speech
+    c. Processing of Sentences
+    d. Path of Semantic
+    **b**
+
+17. Which of the following is a language generation task?
+    a. Image recognition
+    b. Sentiment classification
+    c. Text summarization
+    d. POS tagging
+    **c**
+
+18. In computer vision, what is the purpose of a convolutional layer?
+    a. Compress data
+    b. Normalize input
+    c. Extract features from images
+    d. Increase resolution
+    **c**
+
+19. Which library is commonly used for CV in Python?
+    a. spaCy
+    b. OpenCV
+    c. NLTK
+    d. seaborn
+    **b**
+
+20. What is image classification?
+    a. Cropping image
+    b. Assigning labels to images
+    c. Generating captions
+    d. Enhancing contrast
+    **b**
+
+21. What is the goal of object detection?
+    a. Segment the image
+    b. Identify text in an image
+    c. Locate and label objects
+    d. Match image colors
+    **c**
+
+22. What does CNN stand for?
+    a. Central Neural Node
+    b. Convolutional Neural Network
+    c. Conditional Neural Network
+    d. Core Network Node
+    **b**
+
+23. Which activation function is commonly used in CNNs?
+    a. tanh
+    b. sigmoid
+    c. ReLU
+    d. softmax
+    **c**
+
+24. What is the purpose of pooling layers in CNNs?
+    a. Flatten the image
+    b. Upsample the feature map
+    c. Reduce spatial dimensions
+    d. Increase the number of filters
+    **c**
+
+25. What is overfitting in CV models?
+    a. Undertraining on images
+    b. Poor performance on training data
+    c. Good performance on training but poor on new data
+    d. No change in loss function
+    **c**
+
+26. Which dataset is used for handwritten digit recognition?
+    a. ImageNet
+    b. CIFAR-10
+    c. MNIST
+    d. COCO
+    **c**
+
+27. What is a kernel in CNNs?
+    a. An image
+    b. A pooling layer
+    c. A small matrix used for convolution
+    d. A regularizer
+    **c**
+
+28. What does data augmentation do in CV?
+    a. Reduce image size
+    b. Normalize data
+    c. Generate more training data using transformations
+    d. Remove noise from images
+    **c**
+
+29. What is semantic segmentation?
+    a. Classifying images
+    b. Translating images
+    c. Labeling each pixel of the image
+    d. Cropping regions
+    **c**
+
+30. Which model is used for real-time object detection?
+    a. Word2Vec
+    b. LSTM
+    c. YOLO
+    d. VGG
+    **c**
+
+31. What is the purpose of Flatten layer in CNNs?
+    a. Increase resolution
+    b. Convert matrix to vector
+    c. Apply filter
+    d. Reduce noise
+    **b**
+
+32. What is Transfer Learning in CV?
+    a. Moving files to cloud
+    b. Using pre-trained models for new tasks
+    c. Training model from scratch
+    d. Data visualization
+    **b**
+
+33. Which of these models is used for image generation?
+    a. BERT
+    b. GAN
+    c. SVM
+    d. LDA
+    **b**
+
+34. What is caption generation?
+    a. Creating a video
+    b. Segmenting text
+    c. Generating text to describe an image
+    d. Filtering images
+    **c**
+
+35. What is OCR used for?
+    a. Object tracking
+    b. Image segmentation
+    c. Text recognition from images
+    d. Denoising images
+    **c**
+
+36. What is an epoch in training models?
+    a. A data point
+    b. A batch of data
+    c. One complete pass through the dataset
+    d. An activation function
+    **c**
+
+37. What is BLEU score used for?
+    a. Evaluating classification accuracy
+    b. Measuring image quality
+    c. Evaluating translation quality
+    d. Comparing word vectors
+    **c**
+
+38. What is cosine similarity used for in NLP?
+    a. Classify documents
+    b. Measure similarity between vectors
+    c. Normalize text
+    d. Generate keywords
+    **b**
+
+39. Which model handles sequence-to-sequence tasks?
+    a. SVM
+    b. Random Forest
+    c. Encoder-Decoder
+    d. CNN
+    **c**
+
+40. What is attention mechanism in transformers?
+    a. Sort tokens
+    b. Select relevant parts of input
+    c. Encode pixel intensity
+    d. Normalize output
+    **b**
+
+Statistics
+==========
+1. What is the mean of the dataset \[2, 4, 6, 8, 10]?
+   a. 5
+   b. 6
+   c. 7
+   d. 8
+   **b**
+
+2. What is the median of the dataset \[3, 1, 4, 2, 5]?
+   a. 2
+   b. 3
+   c. 4
+   d. 5
+   **b**
+
+3. Which of the following measures the spread of a dataset?
+   a. Mean
+   b. Mode
+   c. Variance
+   d. Median
+   **c**
+
+4. What is standard deviation?
+   a. Square of variance
+   b. Average of data
+   c. Square root of variance
+   d. Difference between max and min
+   **c**
+
+5. Which of the following is not a measure of central tendency?
+   a. Mean
+   b. Median
+   c. Mode
+   d. Range
+   **d**
+
+6. The mode of the dataset \[2, 2, 3, 4, 4, 4, 5] is:
+   a. 2
+   b. 3
+   c. 4
+   d. 5
+   **c**
+
+7. Which graph is best for showing frequency distribution?
+   a. Pie chart
+   b. Histogram
+   c. Line graph
+   d. Scatter plot
+   **b**
+
+8. What does a box plot show?
+   a. Mean
+   b. Outliers and quartiles
+   c. Mode
+   d. Correlation
+   **b**
+
+9. What is the probability of getting heads in a fair coin toss?
+   a. 0
+   b. 0.25
+   c. 0.5
+   d. 1
+   **c**
+
+10. In statistics, what is a population?
+    a. A small sample
+    b. A type of graph
+    c. The entire group being studied
+    d. A summary statistic
+    **c**
+
+11. Which is a parameter, not a statistic?
+    a. Sample mean
+    b. Population mean
+    c. Sample variance
+    d. Sample standard deviation
+    **b**
+
+12. What does a p-value indicate in hypothesis testing?
+    a. Sample size
+    b. Degree of correlation
+    c. Strength of evidence against null hypothesis
+    d. Range of values
+    **c**
+
+13. What is a null hypothesis?
+    a. A hypothesis with an effect
+    b. A hypothesis with a small sample
+    c. A hypothesis that there is no effect
+    d. A hypothesis with low p-value
+    **c**
+
+14. If the p-value is less than 0.05, we:
+    a. Accept the null
+    b. Reject the null
+    c. Increase sample size
+    d. Change test type
+    **b**
+
+15. Which of the following is a discrete variable?
+    a. Height
+    b. Temperature
+    c. Number of children
+    d. Weight
+    **c**
+
+16. Which distribution is symmetric and bell-shaped?
+    a. Poisson
+    b. Normal
+    c. Binomial
+    d. Uniform
+    **b**
+
+17. What does skewness measure?
+    a. Spread
+    b. Symmetry
+    c. Mean
+    d. Mode
+    **b**
+
+18. A positive skew means:
+    a. Tail is on the left
+    b. Tail is on the right
+    c. Symmetric distribution
+    d. Normal distribution
+    **b**
+
+19. What is kurtosis?
+    a. Measure of central tendency
+    b. Peakness of a distribution
+    c. Spread of data
+    d. Correlation coefficient
+    **b**
+
+20. What is the range of values for correlation coefficient?
+    a. -2 to 2
+    b. 0 to 2
+    c. -1 to 1
+    d. 0 to 1
+    **c**
+
+21. If correlation is -0.9, the variables are:
+    a. Strongly positively correlated
+    b. Strongly negatively correlated
+    c. Not correlated
+    d. Perfectly correlated
+    **b**
+
+22. Which test is used to compare means of two groups?
+    a. Chi-square test
+    b. ANOVA
+    c. t-test
+    d. Z-test
+    **c**
+
+23. What is a Type I error?
+    a. Accepting null when it’s false
+    b. Rejecting null when it’s true
+    c. Large p-value
+    d. No error
+    **b**
+
+24. What is the sample space in probability?
+    a. Only outcomes we want
+    b. All possible outcomes
+    c. Observed values
+    d. Mode of dataset
+    **b**
+
+25. What is the expected value?
+    a. Smallest value
+    b. Mean of a probability distribution
+    c. Maximum value
+    d. Range of data
+    **b**
+
+26. In a normal distribution, what percentage of data lies within 1 standard deviation of the mean?
+    a. 50%
+    b. 68%
+    c. 90%
+    d. 95%
+    **b**
+
+27. What is the variance of a dataset if all values are equal?
+    a. 1
+    b. 0
+    c. Mean
+    d. Undefined
+    **b**
+
+28. Which type of sampling gives every member an equal chance?
+    a. Stratified
+    b. Systematic
+    c. Cluster
+    d. Simple random
+    **d**
+
+29. What does central limit theorem state?
+    a. Large sample means follow normal distribution
+    b. Data is always normally distributed
+    c. Population mean is always zero
+    d. Variance is constant
+    **a**
+
+30. What is the interquartile range (IQR)?
+    a. Q3 - Q1
+    b. Mean - Mode
+    c. Max - Min
+    d. Q2 - Q1
+    **a**
+
+31. What is a confidence interval?
+    a. A type of variable
+    b. A measure of correlation
+    c. Range where parameter likely lies
+    d. Data transformation
+    **c**
+
+32. Which chart is useful for categorical data?
+    a. Line chart
+    b. Bar chart
+    c. Scatter plot
+    d. Histogram
+    **b**
+
+33. What is a contingency table used for?
+    a. Showing missing data
+    b. Testing hypothesis
+    c. Showing frequency distribution of variables
+    d. Calculating standard deviation
+    **c**
+
+34. Which distribution describes number of events in a fixed interval?
+    a. Normal
+    b. Uniform
+    c. Poisson
+    d. Binomial
+    **c**
+
+35. Which distribution is used for binary outcomes?
+    a. Normal
+    b. Binomial
+    c. Poisson
+    d. Uniform
+    **b**
+
+36. A Z-score of 0 means:
+    a. Data is far from mean
+    b. Data is below average
+    c. Data equals mean
+    d. Data is incorrect
+    **c**
+
+37. If standard deviation is large, data is:
+    a. Centered
+    b. Spread out
+    c. Skewed
+    d. Incorrect
+    **b**
+
+38. What does an outlier affect the most?
+    a. Mode
+    b. Median
+    c. Mean
+    d. IQR
+    **c**
+
+39. Which is not a probability distribution?
+    a. Poisson
+    b. Normal
+    c. Linear
+    d. Binomial
+    **c**
+
+40. What does the area under a probability density function represent?
+    a. Skewness
+    b. Total probability
+    c. Kurtosis
+    d. Mode
+    **b**
+
+DevOps
+======
+1. What is Docker primarily used for?
+   a. Managing databases
+   b. Containerizing applications
+   c. Writing code
+   d. Monitoring servers
+   **b**
+
+2. Which file is used to build a Docker image?
+   a. docker-compose.yml
+   b. Dockerfile
+   c. build.config
+   d. imagefile
+   **b**
+
+3. Which command is used to list running Docker containers?
+   a. docker list
+   b. docker ps
+   c. docker status
+   d. docker run
+   **b**
+
+4. What is the default port for Docker daemon?
+   a. 443
+   b. 80
+   c. 2375
+   d. 22
+   **c**
+
+5. What does Kubernetes (K8s) manage?
+   a. Git repositories
+   b. Code compilation
+   c. Container orchestration
+   d. CI pipelines
+   **c**
+
+6. What is a Kubernetes Pod?
+   a. A physical server
+   b. A group of containers
+   c. A YAML file
+   d. A virtual machine
+   **b**
+
+7. What file format does Kubernetes use for configuration?
+   a. JSON only
+   b. YAML or JSON
+   c. INI
+   d. XML
+   **b**
+
+8. What is the purpose of `kubectl`?
+   a. Monitoring servers
+   b. Managing Kubernetes clusters
+   c. Building Docker images
+   d. Running Git commands
+   **b**
+
+9. What is the function of a Deployment in Kubernetes?
+   a. Creates services
+   b. Scales and updates pods
+   c. Manages storage
+   d. Builds containers
+   **b**
+
+10. In Kubernetes, what exposes a pod to the outside world?
+    a. ConfigMap
+    b. ReplicaSet
+    c. Service
+    d. Secret
+    **c**
+
+11. What is Git used for?
+    a. Creating Docker containers
+    b. Version control
+    c. Monitoring clusters
+    d. Managing cloud infrastructure
+    **b**
+
+12. Which command initializes a Git repository?
+    a. git init
+    b. git start
+    c. git new
+    d. git repo
+    **a**
+
+13. What is the purpose of `git clone`?
+    a. Delete a repo
+    b. Make a commit
+    c. Copy a remote repo
+    d. Merge branches
+    **c**
+
+14. What does `git status` show?
+    a. Remote branches
+    b. Untracked/modified files
+    c. Remote URL
+    d. Deleted files only
+    **b**
+
+15. What is a Git branch used for?
+    a. Storing compiled code
+    b. Backing up code
+    c. Working on features independently
+    d. Logging errors
+    **c**
+
+16. What does `git merge` do?
+    a. Removes a branch
+    b. Combines branches
+    c. Creates a commit
+    d. Switches branches
+    **b**
+
+17. What is Jenkins?
+    a. Source code editor
+    b. Configuration tool
+    c. Continuous integration server
+    d. Container runtime
+    **c**
+
+18. Jenkins pipelines are defined using which language?
+    a. Python
+    b. YAML
+    c. Groovy
+    d. Bash
+    **c**
+
+19. Jenkinsfile is used to:
+    a. Configure Docker
+    b. Define a CI/CD pipeline
+    c. Deploy to AWS
+    d. Store passwords
+    **b**
+
+20. What is a Jenkins agent?
+    a. A build machine
+    b. An admin user
+    c. A container image
+    d. A Git repository
+    **a**
+
+21. What is a Jenkins plugin?
+    a. Container
+    b. Script
+    c. Extension for additional features
+    d. Deployment tool
+    **c**
+
+22. Which AWS service is used for hosting virtual machines?
+    a. S3
+    b. Lambda
+    c. EC2
+    d. RDS
+    **c**
+
+23. What does AWS S3 provide?
+    a. Compute power
+    b. Relational database
+    c. Object storage
+    d. Monitoring tools
+    **c**
+
+24. AWS IAM is used for:
+    a. Code deployment
+    b. User and access management
+    c. Billing
+    d. Storage backup
+    **b**
+
+25. What is AWS Lambda used for?
+    a. Serverless compute
+    b. Load balancing
+    c. Monitoring servers
+    d. Running Kubernetes
+    **a**
+
+26. What does `docker-compose` do?
+    a. Build images
+    b. Create Kubernetes clusters
+    c. Define and run multi-container apps
+    d. Monitor containers
+    **c**
+
+27. What does `docker build` do?
+    a. Starts containers
+    b. Lists containers
+    c. Builds images from Dockerfile
+    d. Connects to Kubernetes
+    **c**
+
+28. In Kubernetes, what is a ReplicaSet used for?
+    a. Building Docker images
+    b. Managing volume mounts
+    c. Ensuring desired number of pod replicas
+    d. Managing user roles
+    **c**
+
+29. Which Git command uploads local commits to a remote repository?
+    a. git fetch
+    b. git pull
+    c. git push
+    d. git clone
+    **c**
+
+30. What is CI/CD?
+    a. Code Integration / Code Deployment
+    b. Continuous Integration / Continuous Delivery
+    c. Centralized Installation / Centralized Deployment
+    d. Continuous Initialization / Centralized Development
+    **b**
+
+31. What does AWS CloudFormation do?
+    a. Stores objects
+    b. Manages secrets
+    c. Automates infrastructure as code
+    d. Builds Docker images
+    **c**
+
+32. What does a load balancer do?
+    a. Compress code
+    b. Balance network traffic across servers
+    c. Merge Git branches
+    d. Build CI pipelines
+    **b**
+
+33. Which tool is used for infrastructure provisioning?
+    a. Jenkins
+    b. Docker
+    c. Terraform
+    d. Git
+    **c**
+
+34. What does `kubectl apply` do?
+    a. Starts Docker
+    b. Applies YAML config to Kubernetes
+    c. Pushes code to Git
+    d. Deploys to Jenkins
+    **b**
+
+35. What is the purpose of GitHub Actions?
+    a. Create AWS EC2
+    b. Define Git branches
+    c. Automate workflows in GitHub
+    d. Monitor containers
+    **c**
+
+36. What is container orchestration?
+    a. Container deletion
+    b. Managing container lifecycle at scale
+    c. Monitoring databases
+    d. Pushing code to repo
+    **b**
+
+37. In Jenkins, what triggers a pipeline automatically?
+    a. Manual trigger
+    b. Webhook from Git
+    c. Dockerfile
+    d. AWS CLI
+    **b**
+
+38. Which AWS service runs Docker containers?
+    a. EC2
+    b. Lambda
+    c. ECS
+    d. RDS
+    **c**
+
+39. What is the use of `.gitignore`?
+    a. Hide commits
+    b. Ignore specified files from version control
+    c. Encrypt files
+    d. Rollback changes
+    **b**
+
+40. What is Helm in Kubernetes?
+    a. Load balancer
+    b. Monitoring tool
+    c. Package manager for Kubernetes
+    d. CI server
+    **c**
