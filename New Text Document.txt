@@ -1,0 +1,63 @@
+
+DETERMINISTIC ALGORITHM
+
+In computer science, a deterministic algorithm is an algorithm which, given a particular input, will always produce the same output, with the underlying machine always passing through the same sequence of states. Deterministic algorithms are by far the most studied and familiar kind of algorithm, as well as one of the most practical, since they can be run on real machines efficiently.
+
+**********************************************************************************************************************************************************************
+
+Maximum depth refers to the the length of the longest path from a root to a leaf.
+
+*********************************************************************************************************************************************************************
+
+Imagine that you're trying to classify politicians into two groups: those who are honest, and those who are not. I'll give you a list of 100 people, half of which are honest, and you'll give me a list of all the honest ones, but being careful not to accidentally include anyone who is not.
+
+Having high precision means that when you do say that someone is honest, you're usually right about it. This is about how many politicians in your list are actually honest, out of all the ones that you've added to the list.
+
+Having high recall means that you can identify most of the honest politicians out there. This is about how many honest politicians you've added to your list, out of all the ones that exist.
+
+Note that these are not the same. You could add a single honest politician to the list. You would then have very high precision, since the only person that you've listed is actually honest; but you would also have very low recall: there are 50 honest politicians out there but you've only mentioned one.
+
+Ideally, you'd want to list all honest politicians that exist while being careful to not accidentally include some who are not. If you could do that, then you'd have both high precision and high recall. 
+
+When measuring how well you're doing, it's often useful to have a single number to describe your performance. We could define that number to be, for instance, the mean of your precision and your recall. This is exactly what the F1-score is. 
+
+The only reason why we use the harmonic mean is because we're taking the average of ratios (percentages), and in that case the harmonic mean is more appropriate than the arithmetic mean.
+
+
+p=tp/tp+fp
+
+r=tp/tp+fn
+
+F1=2pr/p+r=?.....=2tp/2tp+fp+fn
+
+**********************************************************************************************************************************************************************
+
+A stemmer for English operating on the stem cat should identify such strings as cats, catlike, and catty. A stemming algorithm might also reduce the words fishing, fished, and fisher to the stem fish. The stem need not be a word, however. In the Porter algorithm, argue, argued, argues, arguing, and argus reduce to the stem argu.
+
+***********************************************************************************************************************************************************************
+
+Natural language processing (nlp) is a research field that presents many challenges such as natural language understanding.
+Text may contain stop words like ‘the’, ‘is’, ‘are’. Stop words can be filtered from the text to be processed. There is no universal list of stop words in nlp research, however the nltk module contains a list of stop words.
+
+Object standardization is pre-processing techniques that can be done on abbreviations such as “rt ? retweet, dm ? direct message”.
+
+***********************************************************************************************************************************************************************
+
+Ridge and Lasso Regression Models
+In this post, we’ll explore ridge and lasso regression models. The idea is that by shrinking or regularizing the coefficients, prediction accuracy can be improved, variance can be decreased, and model interpretabily can also be improved.
+
+In ridge regression, we add a penalty by way of a tuning parameter called lambda which is chosen using cross validation. The idea is to make the fit small by making the residual sum or squares small plus adding a shrinkage penalty. The shrinkage penalty is lambda times the sum of squares of the coefficients so coefficients that get too large are penalized. As lambda gets larger, the bias is unchanged but the variance drops. The drawback of ridge is that it doesn’t select variables. It includes all of the variables in the final model
+
+In lasso, the penalty is the sum of the absolute values of the coefficients. Lasso shrinks the coefficient estimates towards zero and it has the effect of setting variables exactly equal to zero when lambda is large enough while ridge does not. Hence, much like the best subset selection method, lasso performs variable selection. The tuning parameter lambda is chosen by cross validation. When lambda is small, the result is essentially the least squares estimates. As lambda increases, shrinkage occurs so that variables that are at zero can be thrown away. So, a major advantage of lasso is that it is a combination of both shrinkage and selection of variables. In cases with very large number of features, lasso allow us to efficiently find the sparse model that involve a small subset of the features.
+
+***********************************************************************************************************************************************************************
+
+After Adding a feature in the feature space,whether the feature is important or unimportant features the R-Squared always increase.
+
+************************************************************************************************************************************************************************
+
+Correlation between features does not change if you add or subtract values to the features.
+
+********************************************************************************************************************************************************************
+
+
